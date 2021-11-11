@@ -54,7 +54,7 @@
           <li><a class="nav-link scrollto" href="#about">Tentang kami</a></li>
           <li><a class="nav-link scrollto" href="#services">Layanan</a></li>
           <li><a class="nav-link scrollto" href="#contact">Kontak</a></li>
-          <li><a class="getstarted scrollto" href="<?php echo base_url().'meetviceorder'?>"target="_blank">Order Sekarang</a></li>
+          <li><a class="getstarted scrollto" href="<?php echo base_url().'meetviceorder'?>"target="_blank ">Order Sekarang</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- navigasi -->
@@ -255,6 +255,7 @@
                 <h4>Hanifah</h4>
                 <span>12200036</span>
                 <div class="social">
+                  <a href="https://www.instagram.com/hanifahyn11/" target="_blank" rel="nofollow"><i class="ri-instagram-fill"></i></a>
                   <a href="https://wa.me/628551719173" target="_blank" rel="nofollow"><i class="ri-whatsapp-fill"></i></a>
                 </div>
               </div>
@@ -268,6 +269,7 @@
                 <h4>M Akbar</h4>
                 <span>12200980</span>
                 <div class="social">
+                  <a href="https://www.instagram.com/akbarry.m/" target="_blank" rel="nofollow"><i class="ri-instagram-fill"></i></a>
                   <a href="https://wa.me/6283890347622" target="_blank" rel="nofollow"><i class="ri-whatsapp-fill"></i></a>
                 </div>
               </div>
@@ -281,6 +283,7 @@
                 <h4>Dwi Faldiansyah</h4>
                 <span>12201157</span>
                 <div class="social">
+                  <a href="https://www.instagram.com/faldi26_/" target="_blank" rel="nofollow"><i class="ri-instagram-fill"></i></a>
                   <a href="https://wa.me/6281317481591" target="_blank" rel="nofollow"><i class="ri-whatsapp-fill"></i></a>
                 </div>
               </div>
@@ -294,6 +297,7 @@
                 <h4>Novelita</h4>
                 <span>12200793</span>
                 <div class="social">
+                  <a href="https://www.instagram.com/novelitaa_/" target="_blank" rel="nofollow"><i class="ri-instagram-fill"></i></a>
                   <a href="https://wa.me/6281511871509" target="_blank" rel="nofollow"><i class="ri-whatsapp-fill"></i></a>
                 </div>
               </div>
