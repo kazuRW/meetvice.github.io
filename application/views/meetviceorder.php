@@ -80,10 +80,38 @@
                   <div class="form-group">
                     <label for="name">Barang yang ingin di servis</label>
                     <select class="form-control" id="exampleFormControlSelect1" name="subjek" id="subject" required type ="text">
-                      <option>Laptop</option>
-                      <option>Macbook</option>
-                      <option>Android</option>
-                      <option>Iphone</option>
+                      <option>Laptop Windows IC POWER (Rp.250.000 - Rp.700,000)</option>
+                      <option>Laptop Windows Service Port USB Audio (Rp.150.000 - Rp.250,000)</option>
+                      <option>Laptop Windows Maintenance / recovery (Rp.150.000)</option>
+                      <option>Laptop Windows Service Powerboard (Rp.250.000)</option>
+                      <option>Laptop Windows Riset Bios Laptop-Laptop hang (Rp.250.000 - Rp.400.000)</option>
+                      <option>Laptop Windows Service Port Charger (Rp.250.000 - Rp.350.000)</option>
+                      <option>Laptop Windows Repair Engsel (1 titik Rp.150.000)</option>
+                      <option>All in one Windows Service IC power untuk ALL in One (Rp.350.000 - Rp.500.000)</option>
+                      <option>Laptop Windows Jasa Pasang LED, Keyboard (Rp.100.000 - Rp.200.000)</option>
+                      <option>Laptop Windows Jasa Pasang Ram,Sodim,HDD,SSD (Rp.50.000 - Rp.100.000)</option>
+                      <option>Laptop Windows Jasa pasang cover/casing laptop (Rp.200.000)</option>
+                      <option>Macbook Service IC Power Mati total (Rp.350.000 - Rp.800.000)</option>
+                      <option>Macbook Recovery OS Mac (Rp.250.000)</option>
+                      <option>Android Ganti Speaker (Rp.200.000 - Rp.300.000)</option>
+                      <option>Android Ganti IC Charger (Rp.100.000 - Rp.200.000)</option>
+                      <option>Android Ganti Konektor (Rp.50.000 - Rp.150.000)</option>
+                      <option>Android Ganti Servis LCD (Rp.400.000 - Rp.800.000)</option>
+                      <option>Android Ganti Port Headset (Rp.50.000 - Rp.100.000)</option>
+                      <option>Android Ganti Tombol Power (Rp.50.000 - Rp.80.000)</option>
+                      <option>Android Ganti Konektor Baterai (Rp.200.000 - Rp.400.000)</option>
+                      <option>Android Ganti EMMC (Rp.100.000 - Rp.200.000)</option>
+                      <option>Android Ganti Baterai (Rp.100.000)</option>
+                      <option>Android Biaya Reset (Rp.50.000 - Rp.100.000)</option>
+                      <option>Iphone LCD Iphone 4 (Rp.280.000)</option>
+                      <option>Iphone LCD Iphone 4s (Rp.280.000)</option>
+                      <option>Iphone LCD Iphone 5s (Rp.350.000)</option>
+                      <option>Iphone LCD Iphone 5S/5SE (Rp.350.000)</option>
+                      <option>Iphone LCD Iphone 6 Plus (Rp.650.000)</option>
+                      <option>Iphone LCD Iphone 6s (Rp.750.000)</option>
+                      <option>Iphone LCD Iphone 6s Plus (Rp.850.000)</option>
+                      <option>Iphone LCD Iphone 7 (Rp.1.100.000)</option>
+                      <option>Iphone LCD Iphone 7 plus (Rp.280.000)</option>
                     </select>
                     <div class="form-group">
                       <label for="exampleFormControlFile1">Gambar barang yang ingin di servis (untuk bukti kami): </label>
