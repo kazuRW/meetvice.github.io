@@ -72,7 +72,7 @@
           <h2>Harga murah dan merakyat</h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a class="btn-get-started scrollto" href="<?php echo base_url().'meetviceorder'?>"target="_blank">Order Sekarang</a>
-            <a href="https://www.youtube.com/watch?v=jAeh2iSIUfE" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Tonton Video lagu dari kami</span></a>
+            <a href="https://youtu.be/m37MlEcepe4" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Tonton Video Presentasi Install linux kami</span></a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
@@ -323,11 +323,11 @@
             <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
               <div class="box">
                 <h3>Service Android</h3>
-                <h4><sup>Rp.</sup>20k-400k<span>garansi 1 bulan</span></h4>
+                <h4><sup>Rp.</sup>50k-800k<span>garansi 1 bulan</span></h4>
                 <ul>
-                  <li><i class="bx bx-check"></i> Sparepat dari harga 20k/400k</li>
-                  <li><i class="bx bx-check"></i> flash ulang 40k</li>
-                  <li><i class="bx bx-check"></i> Service layar 150k</li>
+                  <li><i class="bx bx-check"></i> Sparepart mulai dari harga 50k-800k</li>
+                  <li><i class="bx bx-check"></i> flash ulang 70k</li>
+                  <li><i class="bx bx-check"></i> Service layar 400k</li>
                 </ul>
                 <a href="meetviceorder" class="buy-btn">order sekarang</a>
               </div>
@@ -336,11 +336,10 @@
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
               <div class="box">
                 <h3>Service Iphone</h3>
-                <h4><sup>Rp.</sup>80k-600k<span>garansi 1 bulan</span></h4>
+                <h4><sup>Rp.</sup>280k-1.100k<span>garansi 1 bulan</span></h4>
                 <ul>
-                  <li><i class="bx bx-check"></i> Sparepart dari harga 80k-600k</li>
+                  <li><i class="bx bx-check"></i> Sparepart LCD dari harga 280k-1.100k</li>
                   <li><i class="bx bx-check"></i> Jasa Bypass 120k</li>
-                  <li><i class="bx bx-check"></i> Service layar 180k</li>
                 </ul>
                 <a href="meetviceorder" class="buy-btn">order sekarang</a>
               </div>
@@ -349,10 +348,10 @@
             <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
               <div class="box">
                 <h3>Service Laptop</h3>
-                <h4><sup>Rp.</sup>75k-800k<span>garansi 1 bulan</span></h4>
+                <h4><sup>Rp.</sup>50k-700k<span>garansi 1 bulan</span></h4>
                 <ul>
-                  <li><i class="bx bx-check"></i> Sparepart dari harga 75k-800k</li>
-                  <li><i class="bx bx-check"></i> Install ulang 85k</li>
+                  <li><i class="bx bx-check"></i> Jasa Pasang Sparepart dari harga 50k-100k</li>
+                  <li><i class="bx bx-check"></i> Reset Bios (Laptop Hang) 250k</li>
                   <li><i class="bx bx-check"></i> Penggantian Sparepart 160k</li>
                 </ul>
                 <a href="meetviceorder" class="buy-btn">order sekarang</a>

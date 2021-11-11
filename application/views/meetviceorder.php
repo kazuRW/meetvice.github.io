@@ -45,7 +45,7 @@
         </a>
       </nav>
         <ol>
-          <li><a href="meetvice.html">Layar utama</a></li>
+          <li><a href="home">Layar utama</a></li>
           <li>Meetvice Order</li>
         </ol>
         <h2>Meetvice Order Pesanan</h2>
@@ -60,7 +60,7 @@
     
             <div class="section-title">
               <h2>Isi Form Order</h2>
-              <p>Diharapkan untuk selalu aktif menyalakan handphone bila di hubungi sewaktu waktu</p>
+              <p>Diharapkan untuk selalu aktif email bila di hubungi sewaktu waktu</p>
             </div>
     
             <div class="row">
@@ -73,7 +73,7 @@
                       <input type="text" name="nama" class="form-control" id="name" required placeholder="Contoh : Rama">
                     </div>
                     <div class="form-group col-md-6">
-                      <label for="name">Email / Nomor kamu</label>
+                      <label for="name">Email</label>
                       <input type="email" class="form-control" name="email" id="email" required placeholder="duniacahaya@gmail.com / +628123456789">
                     </div>
                   </div>
