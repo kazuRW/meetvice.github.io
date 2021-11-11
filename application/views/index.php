@@ -410,7 +410,7 @@
                       <input type="text" name="nama" class="form-control" id="name" required>
                     </div>
                     <div class="form-group col-md-6">
-                      <label for="name">No kamu</label>
+                      <label for="name">Email kamu</label>
                       <input type="email" class="form-control" name="email" id="email" required>
                     </div>
                   </div>

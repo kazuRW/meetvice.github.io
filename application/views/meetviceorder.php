@@ -73,8 +73,8 @@
                       <input type="text" name="nama" class="form-control" id="name" required placeholder="Contoh : Rama">
                     </div>
                     <div class="form-group col-md-6">
-                      <label for="name">Email kamu</label>
-                      <input type="email" class="form-control" name="email" id="email" required placeholder="duniacahaya@gmail.com">
+                      <label for="name">Email / Nomor kamu</label>
+                      <input type="email" class="form-control" name="email" id="email" required placeholder="duniacahaya@gmail.com / +628123456789">
                     </div>
                   </div>
                   <div class="form-group">
