@@ -80,8 +80,8 @@
                   <div class="form-group">
                     <label for="name">Barang yang ingin di servis</label>
                     <select class="form-control" id="exampleFormControlSelect1" name="subjek" id="subject" required type ="text">
-                      <option>Laptop Windows IC POWER (Rp.250.000 - Rp.700,000)</option>
-                      <option>Laptop Windows Service Port USB Audio (Rp.150.000 - Rp.250,000)</option>
+                      <option>Laptop Windows IC POWER (Rp.250.000 - Rp.700.000)</option>
+                      <option>Laptop Windows Service Port USB Audio (Rp.150.000 - Rp.250.000)</option>
                       <option>Laptop Windows Maintenance / recovery (Rp.150.000)</option>
                       <option>Laptop Windows Service Powerboard (Rp.250.000)</option>
                       <option>Laptop Windows Riset Bios Laptop-Laptop hang (Rp.250.000 - Rp.400.000)</option>
