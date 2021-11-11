@@ -39,7 +39,7 @@
 
               <!-- Image and text -->
       <nav class="navbar navbar-dark bg-dark mt-4 mb-4">
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="home">
           <img src="<?php echo base_url().'assets/assets/img/meetvice-icon.png'?>" width="30" height="30" class="d-inline-block align-top" alt="">
           Meetvice
         </a>
